@@ -1,6 +1,6 @@
 {
   "name": "@bitflick/tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "tsconfig.base.json",
   "types": "tsconfig.base.json",
   "files": [
