@@ -31,4 +31,4 @@ jobs:
         with:
           publish: yarn changeset publish
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.WORKSPACE_TOKEN  }}
