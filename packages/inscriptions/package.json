@@ -1,6 +1,7 @@
 {
   "name": "@bitflick/inscriptions",
   "version": "1.1.4",
+  "description": "TypeScript library for Bitcoin inscriptions and Ordinals/BRC-20 tooling",
   "license": "MIT",
   "type": "module",
   "main": "dist/src/index.js",
@@ -9,6 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/flick-ing/inscriptions.git"
   },
+  "homepage": "https://www.npmjs.com/package/@bitflick/inscriptions",
+  "bugs": {
+    "url": "https://github.com/flick-ing/inscriptions/issues"
+  },
+  "keywords": [
+    "bitcoin",
+    "ordinals",
+    "inscriptions",
+    "brc20",
+    "typescript",
+    "library"
+  ],
   "files": [
     "dist"
   ],

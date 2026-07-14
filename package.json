@@ -5,8 +5,21 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/flick-ing/bitflick.git"
+    "url": "https://github.com/flick-ing/inscriptions.git"
   },
+  "homepage": "https://www.npmjs.com/package/@bitflick/inscriptions",
+  "bugs": {
+    "url": "https://github.com/flick-ing/inscriptions/issues"
+  },
+  "keywords": [
+    "bitcoin",
+    "ordinals",
+    "inscriptions",
+    "brc20",
+    "typescript",
+    "npm",
+    "library"
+  ],
   "workspaces": [
     "packages/*"
   ],
